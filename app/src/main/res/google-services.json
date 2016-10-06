@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "151965482511",
+    "firebase_url": "https://bruninha-a8b92.firebaseio.com",
+    "project_id": "bruninha-a8b92",
+    "storage_bucket": "bruninha-a8b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151965482511:android:83d0ee2db99c1d73",
+        "android_client_info": {
+          "package_name": "com.example.rafaelsinosaki.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151965482511-eol2bv3a8laqa40ao1bk5k4e1i9klgvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6H_56LnBZfzyHVDwzYgOoA-HWuvWztlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
